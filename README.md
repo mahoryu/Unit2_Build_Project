@@ -1,4 +1,4 @@
-# Mushroom_Identification_Project
+# Mushroom Identification Project
 
 This is a project I did for school to practice using predictive modeling techniques.
 Included in the repo is the raw data and the details behind the dataset. 
